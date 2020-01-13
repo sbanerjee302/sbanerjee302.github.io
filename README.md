@@ -1,5 +1,5 @@
 ---
-description: A very basic introduction to promises in Java-script
+description: A superficial overview to promises in Java-script
 ---
 
 # Promises kept and broken
