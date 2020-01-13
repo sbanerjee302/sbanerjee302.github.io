@@ -1,4 +1,4 @@
 # Table of contents
 
-* [promises kept and broken](README.md)
+* [Promises kept and broken](README.md)
 
