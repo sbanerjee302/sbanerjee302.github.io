@@ -46,3 +46,15 @@ crossMyHeart(true).then(function(resolveMessage){
 });
 ```
 
+I do hope that up till now I have made sense. Of course, when it comes down to actual implementation, we face way more complex scenarios like simultaneous promises, race condition handling, ordered execution, chaining, zipping and all those stuff. The essential part is the resolution and rejection criteria, which would ultimately decide the outcome, for here in lies what is popularly known as _"business logic"._
+
+For a deeper \(and of course better\) understanding I would suggest the following :-
+
+* [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+* [Google Developers Blog](https://developers.google.com/web/fundamentals/primers/promises)
+* [Hackernoon](https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1)
+
+and last but not the least StackOverflow and YouTube. Happy promising :\)
+
+
+
